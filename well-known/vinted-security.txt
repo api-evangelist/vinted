@@ -1,0 +1,5 @@
+Contact: security@vinted.com
+Preferred-Languages: en
+Encryption: https://www.vinted.fr/.well-known/publickey.txt
+Hiring: https://vinted.com/jobs/
+Expires: Tue, 04 Aug 2026 22:43:48 -0000

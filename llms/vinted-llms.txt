@@ -1,0 +1,24 @@
+# Vinted
+
+> Vinted is a European consumer-to-consumer (C2C) marketplace for buying and selling secondhand clothes, shoes, and accessories, operating across web and mobile apps in many markets. Vinted does not publish a public developer API, SDKs, or a developer portal; this profile captures the company's public identity, legal, and security surfaces only.
+
+## Company
+- [Vinted](https://www.vinted.com): Buy and sell secondhand fashion in a peer-to-peer marketplace.
+- [About Vinted](https://www.vinted.com/about): Company overview.
+- [Newsroom](https://company.vinted.com/en/newsroom): Press and company news.
+
+## Support
+- [Help Center](https://www.vinted.com/help): Buying, selling, and account help.
+
+## Legal
+- [Terms & Conditions](https://www.vinted.com/terms_and_conditions)
+- [Privacy Center](https://www.vinted.com/privacy)
+
+## Security
+- [security.txt](https://www.vinted.com/.well-known/security.txt): Security contact — security@vinted.com (RFC 9116).
+
+## Engineering (open source)
+- [Vinted on GitHub](https://github.com/vinted): Internal infrastructure open-source projects (Elasticsearch tooling, networking, certificate management). Not a product API or SDKs.
+
+## Note
+No public REST/GraphQL API, OpenAPI/AsyncAPI specification, hosted MCP server, or client SDKs are published by Vinted. This is an identity-and-security-only enrichment pass.
